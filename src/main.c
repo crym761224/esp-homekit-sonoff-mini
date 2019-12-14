@@ -147,7 +147,7 @@ void accessory_init (void ){
 homekit_server_config_t config = {
     .accessories = accessories,
     .password = "111-11-111",
-    .setupId = "1234",
+    .setupId = "1235",
     .on_event = on_homekit_event
 };
 
